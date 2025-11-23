@@ -1,6 +1,6 @@
 # Fridge-door-opening-alarm-circuit
 
-## Exp 4: Design an fridge door opening alarm circuit using Eagle software
+##  Design an fridge door opening alarm circuit using Eagle software
 ## AIM:
 To design the schematic and PCB layout diagram of an fridge door opening alarm circuit using Eagle software.
 
